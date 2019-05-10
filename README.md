@@ -6,6 +6,9 @@ Dark soul 3 - Gundyr Clear by using Reinforcement Learning
   * Yolov3 Test  
   * Ubuntu 16.04 LTS Install  
   * Darknet building  
-  * [Lab laptop - Dormitory Desktop] Connect to OpenSSH  
+  * [Lab laptop - Dormitory Desktop] Connect to OpenSSH
++ **2019/05/10**
+ * DQN / Faster CNN
+ * Install Jupyter notebook
              
              
