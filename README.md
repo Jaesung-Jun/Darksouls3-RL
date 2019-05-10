@@ -8,7 +8,7 @@ Dark soul 3 - Gundyr Clear by using Reinforcement Learning
   * Darknet building  
   * [Lab laptop - Dormitory Desktop] Connect to OpenSSH
 + **2019/05/10**
- * DQN / Faster CNN
- * Install Jupyter notebook
+  * DQN / Faster CNN
+  * Install Jupyter notebook
              
              
