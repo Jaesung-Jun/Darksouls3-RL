@@ -1,5 +1,5 @@
-![1](https://i.imgur.com/60plm9h.jpg)
-![2](https://i.imgur.com/DIGWr1y.jpg)
+![Project_Logo](https://i.imgur.com/DIGWr1y.jpg)
+![Game_Logo](https://i.imgur.com/60plm9h.jpg)
 # TODO
 # Darksoul3-Gundyr-RL
 Dark soul 3 - Gundyr Clear by using Reinforcement Learning
