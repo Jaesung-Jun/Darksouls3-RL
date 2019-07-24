@@ -1,4 +1,11 @@
-[input3](https://i.imgur.com/60plm9h.jpg)
+![input3](https://i.imgur.com/60plm9h.jpg)
+# TODO
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
 # Darksoul3-Gundyr-RL
 Dark soul 3 - Gundyr Clear by using Reinforcement Learning
 
