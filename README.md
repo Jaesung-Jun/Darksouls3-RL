@@ -1,8 +1,8 @@
 ![Project_Logo](https://i.imgur.com/DIGWr1y.jpg)
 ![Game_Logo](https://i.imgur.com/60plm9h.jpg)
 # TODO
-# Darksoul3-Gundyr-RL
-Dark soul 3 - Gundyr Clear by using Reinforcement Learning
+# Darksouls3-RL
+Darksouls3 Clear By Using Reinforcement Learning
 
 ## Development Status
 + **2019/04/02**
