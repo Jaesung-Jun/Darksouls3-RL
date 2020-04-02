@@ -13,11 +13,12 @@ with mss() as sct:
 def getDS3Window():
     #DARK SOULS III
     DS3 = gw.getWindowsWithTitle('DARK SOULS III')
-    if DS3 == None:
+    if DS3 != []:
         DS3_window = DS3[0]
         return DS3_window.top, DS3_window.left, DS3_window.width, DS3_window.height
     else:
         return 0, 0, 0, 0
+
 def screenRecord(monitor_number):
     with mss.mss() as sct:
         # Part of the screen to capture
@@ -29,8 +30,8 @@ def screenRecord(monitor_number):
                 break
             monitor = {
                 "top": top+40,
-                "left": left+40,
-                "width": width-50,
+                "left": left+30,
+                "width": width-40,
                 "height": height-50,
                 "mon": monitor_number
             }
